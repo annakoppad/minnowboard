@@ -1,6 +1,8 @@
 """	Author: Annapoornima
 	Purpose:This programs read the CPU temperature at a particular time,
-	and displays a plot of the temperature over time
+	and displays a plot of the temperature over time.
+	In this program, I am generating the sample data for the temperature data.
+	The idea is to subsitute that data with the temperature data from the CPU.
 """
 #import modules required for timestamping and putting the program to sleep
 from datetime import datetime, timedelta
